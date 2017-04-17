@@ -150,6 +150,13 @@ Even as a seasoned programmer it is still possible to make mistakes and to get t
 
 Create a new folder for this lab with `mkdir` and `cd` into it.
 
+For this step you can clone the workshop repo onto the pi zero and then navigate to the labs/3.4
+```
+
+$ cd /home/pi
+$ git clone https://github.com/alexellis/docker-blinkt-workshop.git
+```
+
 The `pwd` command shows us the current path on a Linux shell. We will use this when running the live container:
 
 ```
